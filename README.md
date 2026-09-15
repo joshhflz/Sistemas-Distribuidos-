@@ -4,7 +4,7 @@ Roberto Mateo Arévalo Rodríguez
 Danae
 Ruth
 Joshua Hernandez
-Emilio Perez
+Emiliano Meneses 
 
 ## Especificaciones del sistema:
 - Tendra 5 nodos, uno por cada integrante.
