@@ -16,4 +16,5 @@ Pequeña demostracion:
 <img width="562" height="482" alt="Diagrama todo feo" src="https://github.com/user-attachments/assets/e51ad7b7-a5b3-4a88-90d8-e5d359726c2d" />
 
 Version de Python:
-![Uploading image.png…]()
+<img width="1092" height="190" alt="image" src="https://github.com/user-attachments/assets/e0091d43-e4c3-460e-9646-d561e922d799" />
+
